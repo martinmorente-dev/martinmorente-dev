@@ -10,7 +10,7 @@
   
   <h3 align="center">A passionate frontend&Backend developer from Spain</h3>
   
-  <img align="right" margin-right="300" alt="Codding" width="280" src="https://iili.io/HVaCwge.gif">
+  <img align="right" margin-right="500" alt="Codding" width="400" src="https://iili.io/HVaCwge.gif">
   
   - 🌱 I’m currently learning on **42 malaga**
   
