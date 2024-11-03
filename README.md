@@ -23,7 +23,7 @@
   <br><br>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martinmorente-dev&show_icons=true&locale=en" alt="martinmorente-dev" /></p>
   
-  
+  <br><br>
   ## Realized Proyects By Frameworks
   
 | Framework     | Languages         |
@@ -33,12 +33,13 @@
 | [Django]()    | Python           |
 | [Odoo]()      | PHP              |
 
-  
+ <br><br>
   ## Groupal proyects
   
 | Framework       | Description    | 
 | :----            | :---|
 | [Manage Courses](https://github.com/martinmorente-dev/Manage_Courses) | An administration learning page that manages courses, homework, students, and professors |
-| [Vue]()                          | Todo                                                                                         |
+| [Vue]()                          | Todo    
 
+<br><br>
 ## Other projects
