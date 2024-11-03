@@ -40,3 +40,5 @@
 | :----            | :---|
 | [Manage Courses](https://github.com/martinmorente-dev/Manage_Courses) | An administration learning page that manages courses, homework, students, and professors |
 | [Vue]()                          | Todo                                                                                         |
+
+## Other projects
