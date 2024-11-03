@@ -12,7 +12,7 @@
   
   <img align="right" margin-right="100" alt="Codding" width="400" src="https://iili.io/HVaCwge.gif">
   
-  - 🌱 I’m currently learning **42 student**
+  - 🌱 I’m currently learning on **42 malaga**
   
   - 📫 How to reach me **martin.dev45@gmail.com**
   
