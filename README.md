@@ -8,7 +8,7 @@
   </h1>
   
   
-  <h3 align="center">A passionate frontend&Backend developer from Spain</h3>
+  <h3 align="center">A passionate full stack developer from Spain</h3>
   
   <img align="right" margin-right="500" alt="Codding" width="400" src="https://iili.io/HVaCwge.gif">
   
