@@ -39,14 +39,15 @@
  <br><br>
   ## Groupal proyects
   
-| Framework       | Description    | 
+| Name       | Description    | 
 | :----            | :---|
 | [Manage Courses](https://github.com/martinmorente-dev/Manage_Courses) | An administration learning page that manages courses, homework, students, and professors |
-| [Vue]()                          | Todo    
+| [Vue]()                          | TODO    
+|[Events]() | A game page store build on html css javascript
 
 <br><br>
 ## Other projects
-| Framework
+| Lenguages
 | :---- 
 | [Java]() 
 
