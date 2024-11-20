@@ -43,7 +43,7 @@
 | :----            | :---|
 | [Manage Courses](https://github.com/martinmorente-dev/Manage_Courses) | An administration learning page that manages courses, homework, students, and professors |
 | [Vue]()                          | TODO    
-|[Events]() | A game page store build on html css javascript
+|[Events](https://github.com/CoralJG/DISENO_INTERFACES_EVENTOS) | A game page store build on html css javascript
 
 <br><br>
 ## Other projects
