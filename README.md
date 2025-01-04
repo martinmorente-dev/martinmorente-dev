@@ -12,7 +12,7 @@
   
   <img align="right" margin-right="500" alt="Codding" width="400" src="https://iili.io/HVaCwge.gif">
   
-  - 🌱 I’m currently learning on **42 malaga**
+  - 🌱 I’m currently learning on **[42 Málaga](https://github.com/martinmorente-dev/42/tree/main?tab=readme-ov-file)**
   
   - 📫 How to reach me **martin.dev45@gmail.com**
   
