@@ -32,7 +32,6 @@
 | Framework     | Languages         |
 | ------------- | ----------------- |
 | [Laravel](https://github.com/martinmorente-dev/Laravel) | PHP             |
-| [Vue]()       | HTML, CSS, JavaScript |
 | [Django](https://github.com/martinmorente-dev/Django)    | Python           |
 | [Odoo]()      | PHP              |
 
@@ -42,7 +41,6 @@
 | Name       | Description    | 
 | :----            | :---|
 | [Manage Courses](https://github.com/martinmorente-dev/Manage_Courses) | An administration learning page that manages courses, homework, students, and professors |
-| [Vue]()                          | TODO    
 |[Events](https://github.com/CoralJG/DISENO_INTERFACES_EVENTOS) | A game page store build on html css javascript
 
 <br><br>
