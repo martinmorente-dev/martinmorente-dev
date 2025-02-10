@@ -43,11 +43,3 @@
 | [Manage Courses](https://github.com/martinmorente-dev/Manage_Curses) | An administration learning page that manages courses, homework, students, and professors |
 |[Events](https://github.com/CoralJG/DISENO_INTERFACES_EVENTOS) | A game page store build on html css javascript
 
-<br><br>
-## Other projects
-| Lenguages
-| :---- 
-| [Java](https://github.com/martinmorente-dev/2_DAM/tree/main/PSP/Threads)
-
-
-
