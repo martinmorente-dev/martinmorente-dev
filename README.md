@@ -11,7 +11,8 @@
   <h3 align="center">A passionate full stack developer from Spain</h3>
   
   <img align="right" margin-right="500" alt="Codding" width="400" src="https://iili.io/HVaCwge.gif">
-  
+  <br>
+  <br>
   - 🌱 I’m currently learning on **[42 Málaga](https://github.com/martinmorente-dev/42/tree/main?tab=readme-ov-file)**
   
   - 📫 How to reach me **martin.dev45@gmail.com**
