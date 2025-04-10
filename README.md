@@ -34,7 +34,6 @@
 | ------------- | ----------------- |
 | [Laravel](https://github.com/martinmorente-dev/Laravel) | PHP             |
 | [Django](https://github.com/martinmorente-dev/Django)    | Python           |
-| [Odoo]()      | Python              |
 
  <br><br>
   ## Groupal proyects
