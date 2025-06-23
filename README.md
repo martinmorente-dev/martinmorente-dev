@@ -25,7 +25,10 @@
   <a href="https://www.heidisql.com/" target="__blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" width="40" alt="HeidiSql" height="40"/></a> <a href="https://www.typescriptlang.org/" target="__blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN1NAnlhSMbhwPtdLoWbm4WkAQu5qpPH_Hzw&s" alt="TypeScript" width="40" height="40"/></a>
    </p>
   <br><br>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martinmorente-dev&show_icons=true&locale=en" alt="martinmorente-dev" /></p>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=martinmorente-dev&theme=dracula" alt="Repos per language" width="600"/>
+</div>
   
   <br><br>
   ## Realized Proyects By Frameworks
