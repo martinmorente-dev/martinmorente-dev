@@ -1,4 +1,3 @@
-
   ![Masterhead](https://hermes.dio.me/articles/cover/7c31678a-f970-4a98-8cbf-85cf053d69e1.gif)
   
   <h1 align="center">
