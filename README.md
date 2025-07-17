@@ -31,14 +31,17 @@
   
   <br><br>
   ## My 42 experience 
-  
-  [42](https://github.com/martinmorente-dev/42/tree/main)
+<strong>My experience at  [42](https://github.com/martinmorente-dev/42/tree/main) is still ongoing, and it’s been one of the most transformative journeys I’ve had so far.</strong>
+At 42, I’ve been pushed to think differently, learn independently, and build real solutions through project-based learning without traditional classes or teachers. Every day is a challenge that requires teamwork, adaptability, and a growth mindset while working under pressure.
+
+From diving deep into low-level programming in C and understanding memory management, to collaborating on projects that demand clean, scalable code, I’ve gained not just technical skills, but the ability to learn fast and solve problems effectively.
+
+This experience is teaching me how to handle ambiguity, write better code, and work in environments that simulate real-world development challenges. I’m excited to continue growing, pushing my limits, and building projects that reflect the mindset <strong>42 inspires: learning by doing, helping others, and never giving up.</strong>
 
   <br>
   
   ## Realized Proyects By Frameworks
   
-  <br>
 | Framework&Libraries     | Languages         |
 | ------------- | ----------------- |
 | [Laravel](https://github.com/martinmorente-dev/Laravel) | PHP             |
