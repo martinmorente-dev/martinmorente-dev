@@ -37,8 +37,8 @@
   <br>
   
   ## Realized Proyects By Frameworks
-
-  <br><br>
+  
+  <br>
 | Framework&Libraries     | Languages         |
 | ------------- | ----------------- |
 | [Laravel](https://github.com/martinmorente-dev/Laravel) | PHP             |
