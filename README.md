@@ -7,7 +7,7 @@
   </h1>
   
   
-  <h3 align="center">A passionate full stack developer from Spain</h3>
+  <h3 align="center">A passionate Full Stack Developer</h3>
   
   <img align="right" margin-right="500" alt="Codding" width="400" src="https://iili.io/HVaCwge.gif">
   <br>
@@ -31,14 +31,12 @@
   
   <br><br>
   ## My 42 experience 
-<strong>My experience at  [42](https://github.com/martinmorente-dev/42/tree/main) is still ongoing, it’s been one of the most transformative journeys I’ve had so far.</strong><br>
+<strong>My experience at  [42](https://github.com/martinmorente-dev/42/tree/main) is still ongoing, it’s been one of the most transformative journeys I’ve had so far.</strong><br><br>
 At 42, I’ve been pushed to think differently, learn independently, and build real solutions through project-based learning without traditional classes or teachers. Every day is a challenge that requires teamwork, adaptability, and a growth mindset while working under pressure.
 
 From diving deep into low-level programming in C and understanding memory management, to collaborating on projects that demand clean, scalable code, I’ve gained not just technical skills, but the ability to learn fast and solve problems effectively.
 
 This experience is teaching me how to handle ambiguity, write better code, and work in environments that simulate real-world development challenges. I’m excited to continue growing, pushing my limits, and building projects that reflect the mindset 42 inspires: <strong>learning by doing, helping others, and never giving up.</strong>
-
-  <br>
   
   ## Realized Proyects By Frameworks
   
@@ -48,7 +46,6 @@ This experience is teaching me how to handle ambiguity, write better code, and w
 | [Django](https://github.com/martinmorente-dev/Django)    | Python           |
 | [React](https://github.com/martinmorente-dev/React)   | Js & Ts          |
 
- <br>
  
   ## Groupal proyects
   
