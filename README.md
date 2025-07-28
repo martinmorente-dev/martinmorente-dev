@@ -37,6 +37,10 @@ At 42, I’ve been pushed to think differently, learn independently, and build r
 From diving deep into low-level programming in C and understanding memory management, to collaborating on projects that demand clean, scalable code, I’ve gained not just technical skills, but the ability to learn fast and solve problems effectively.
 
 This experience is teaching me how to handle ambiguity, write better code, and work in environments that simulate real-world development challenges. I’m excited to continue growing, pushing my limits, and building projects that reflect the mindset 42 inspires: <strong>learning by doing, helping others, and never giving up.</strong>
+
+## Cybersecurity
+Explore my ongoing journey in cybersecurity, showcasing foundational knowledge, hands-on projects, and reflections as I progress through the Google Cybersecurity Professional Certificate. Includes case studies, technical skills (SQL, PHP, Linux basics), and insights into security principles like the CIA Triad.
+🔗 [Portfolio](https://github.com/martinmorente-dev/Cybersecurity/blob/main/README.md)
   
   ## Realized Proyects By Frameworks
   
