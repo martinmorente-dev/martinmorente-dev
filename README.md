@@ -7,6 +7,7 @@
   </h1>
   
   
+  
   <h3 align="center">A passionate Full Stack Developer</h3>
   
   <img align="right" margin-right="500" alt="Codding" width="400" src="https://iili.io/HVaCwge.gif">
