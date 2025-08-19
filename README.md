@@ -42,15 +42,14 @@ This experience is teaching me how to handle ambiguity, write better code, and w
 Explore my ongoing journey in cybersecurity, showcasing foundational knowledge, hands-on projects, and reflections as I progress through the Google Cybersecurity Professional Certificate. Includes case studies, technical skills (SQL, PHP, Linux basics), and insights into security principles like the CIA Triad.
 🔗 [Portfolio](https://github.com/martinmorente-dev/Cybersecurity/blob/main/README.md)
   
-  ## Realized Proyects By Frameworks
+  ## Realized Proyects by Frameworks & Libraries
   
-| Framework&Libraries     | Languages         |
+| Frameworks & Projects     | Languages         |
 | ------------- | ----------------- |
 | [Laravel](https://github.com/martinmorente-dev/Laravel) | PHP             |
 | [Django](https://github.com/martinmorente-dev/Django)    | Python           |
 | [React](https://github.com/martinmorente-dev/React)   | Js & Ts          |
-
- 
+| [TFG DAM](https://github.com/martinmorente-dev/Sugarit#) | Kotlin |
   ## Groupal proyects
   
 | Name       | Description    | 
