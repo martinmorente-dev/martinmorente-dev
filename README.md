@@ -51,6 +51,7 @@ Explore my ongoing journey in cybersecurity, showcasing foundational knowledge, 
 | [Django](https://github.com/martinmorente-dev/Django)    | Python           |
 | [React](https://github.com/martinmorente-dev/React)   | Js & Ts          |
 | [TFG DAM](https://github.com/martinmorente-dev/Sugarit#) | Kotlin |
+| [TFG DAW](https://github.com/martinmorente-dev/Infernum) | Laravel, Angular, AWS|
   ## Groupal proyects
   
 | Name       | Description    | 
