@@ -57,12 +57,14 @@ Explore my ongoing journey in cybersecurity, showcasing foundational knowledge, 
 | [Laravel](https://github.com/martinmorente-dev/Laravel) | PHP             |
 | [Django](https://github.com/martinmorente-dev/Django)    | Python           |
 | [React](https://github.com/martinmorente-dev/React)   | Js & Ts          |
-| [TFG DAM](https://github.com/martinmorente-dev/Sugarit#) | Kotlin |
-| [TFG DAW](https://github.com/martinmorente-dev/Infernum) | Laravel, Angular, AWS|
+
   ## Groupal proyects
   
 | Name       | Description    | 
 | :----            | :---|
 | [Manage Courses](https://github.com/martinmorente-dev/Manage_Curses) | An administration learning page that manages courses, homework, students, and professors |
 |[Events](https://github.com/CoralJG/DISENO_INTERFACES_EVENTOS) | A game page store build on html css javascript
+| [TFG DAM](https://github.com/martinmorente-dev/Sugarit#) | Kotlin |
+| [TFG DAW](https://github.com/martinmorente-dev/Infernum) | Laravel, Angular, AWS|
+
 
