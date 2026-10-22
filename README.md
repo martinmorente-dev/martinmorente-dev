@@ -8,16 +8,20 @@
   
   
   
-  <h3 align="center">A passionate Cyber Security Specialist</h3>
+  <h3 align="center">A passionate Cyber Security Specialist | Purple Team & DFIR</h3>
   
   <img align="right" margin-right="500" alt="Codding" width="400" src="https://iili.io/HVaCwge.gif">
   <br>
 
-  - 🌱 I’m currently learning on **[42 Málaga](https://github.com/martinmorente-dev/42/tree/main?tab=readme-ov-file)**
+  - I'm a **Purple Team & DFIR** specialist (Digital Forensics and Incident Response)
   
-  - 📫 How to reach me **martin.dev45@gmail.com**
+  - **[Check my Cybersecurity Portfolio](https://github.com/martinmorente-dev/Cybersecurity/blob/main/README.md)**
   
-  - ⚡ About me: **I love playing guitar and I'm passionate about sports and codding**
+  - I’m currently learning on 42 Málaga: **[Check my 42 Projects](https://github.com/martinmorente-dev/42/tree/main?tab=readme-ov-file)**
+  
+  - How to reach me **martin.dev45@gmail.com**
+  
+  - About me: **I love playing guitar and I'm passionate about sports and codding**
   
   <h3 align="left">Languages and Tools:</h3>
   <p display="flex" gap="20px"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/719/649/png-transparent-laravel-software-framework-php-web-framework-model-view-controller-framework-angle-text-rectangle-thumbnail.png" alt="Laravel" width="40" height="40" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png" width="40" height="40" alt="Node"/></a> 
