@@ -51,7 +51,7 @@ Explore my ongoing journey in cybersecurity, showcasing foundational knowledge, 
 | :----            | :---|
 | [Manage Courses](https://github.com/martinmorente-dev/Manage_Curses) | An administration learning page that manages courses, homework, students, and professors |
 |[Events](https://github.com/CoralJG/DISENO_INTERFACES_EVENTOS) | A game page store build on html css javascript
-| [TFG DAM](https://github.com/martinmorente-dev/Sugarit#) | Kotlin |
-| [TFG DAW](https://github.com/martinmorente-dev/Infernum) | Laravel, Angular, AWS|
+| [TFG DAM](https://github.com/martinmorente-dev/Sugarit#) | A mobile app for the diabetes people |
+| [TFG DAW](https://github.com/martinmorente-dev/Infernum) | A web app for buying games |
 
 
