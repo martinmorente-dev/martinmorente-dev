@@ -13,16 +13,14 @@
   <img align="right" margin-right="500" alt="Codding" width="400" src="https://iili.io/HVaCwge.gif">
   <br>
 
-  - I'm a **Purple Team & DFIR** specialist (Digital Forensics and Incident Response)
+  - I'm a **Cibersecurity** specialist
   
   - **[Check my Cybersecurity Portfolio](https://github.com/martinmorente-dev/Cybersecurity/blob/main/README.md)**
   
   - I’m currently learning on 42 Málaga: **[Check my 42 Projects](https://github.com/martinmorente-dev/42/tree/main?tab=readme-ov-file)**
   
   - How to reach me **martin.dev45@gmail.com**
-  
-  - About me: **I love playing guitar and I'm passionate about sports and codding**
-  
+
  <h3 align="left">Languages and Tools:</h3> <p display="flex" gap="20px"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/Open-source_intelligence" target="_blank" rel="noreferrer"> <img src="assets/osint.svg" alt="osint" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/Digital_forensics" target="_blank" rel="noreferrer"> <img src="assets/forensics.svg" alt="forensics" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img 
 
 <br><br>
