@@ -25,10 +25,6 @@
 
 <br><br>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=martinmorente-dev&theme=dracula" alt="Repos per language" width="600"/>
-</div>
-  
   <br><br>
   ## My 42 experience 
 <strong>My experience at  42 is still ongoing, it’s been one of the most transformative journeys I’ve had so far.</strong><br><br>
