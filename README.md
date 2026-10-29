@@ -1,4 +1,3 @@
-🌐 [English](README.md) | [Español](README.es.md)
 
   ![Masterhead](https://hermes.dio.me/articles/cover/7c31678a-f970-4a98-8cbf-85cf053d69e1.gif)
   
@@ -7,6 +6,8 @@
       <img src="https://readme-typing-svg.demolab.com?color=006400&center=true&vCenter=true&lines=Hi+I'm+Martin+Morente+Vargas" alt="Typing SVG" width=600px>
     </a>
   </h1>
+
+🌐 [English](README.md) | [Español](README.es.md)
   
   <h3 align="center">A passionate Cyber Security Specialist | Purple Team & DFIR</h3>
   
