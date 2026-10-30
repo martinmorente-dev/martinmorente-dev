@@ -36,7 +36,7 @@ Esta experiencia me está enseñando a manejar la ambigüedad, a escribir mejor 
 ### **[>> Ir a mis proyectos de 42 Málaga](https://github.com/martinmorente-dev/42/tree/main?tab=readme-ov-file)**
 
 ## Ciberseguridad
-Explora mi camino en ciberseguridad, que reúne conocimientos fundamentales, proyectos prácticos y reflexiones a medida que avanzo en el Certificado Profesional de Ciberseguridad de Google. Incluye casos de estudio, habilidades técnicas (SQL, PHP, bases de Linux) y conceptos de seguridad como la tríada CIA.
+Explora mi camino en ciberseguridad, que reúne conocimientos fundamentales, proyectos prácticos y reflexiones a medida que avanzo en mi carrera Profesional de Ciberseguridad. Incluye casos de estudio, habilidades técnicas (SQL, PHP, bases de Linux) y conceptos de seguridad como la tríada CIA.
 
 ### **[>> Ir a mi portfolio de Ciberseguridad](https://github.com/martinmorente-dev/Cybersecurity/blob/main/README.md)**
   
