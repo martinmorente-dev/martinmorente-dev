@@ -7,7 +7,7 @@
     </a>
   </h1>
 
-🌐 [English](README.md) | [Español](README.es.md)
+🌐 [English](README.md) | [Spanish](README.es.md)
   
   <h3 align="center">A passionate Cyber Security Specialist | Purple Team & DFIR</h3>
   
