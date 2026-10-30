@@ -36,7 +36,7 @@ This experience is teaching me how to handle ambiguity, write better code, and w
 ### **[>> Go to my 42 Málaga Projects](https://github.com/martinmorente-dev/42/tree/main?tab=readme-ov-file)**
 
 ## Cybersecurity
-Explore my ongoing journey in cybersecurity, showcasing foundational knowledge, hands-on projects, and reflections as I progress through the Google Cybersecurity Professional Certificate. Includes case studies, technical skills (SQL, PHP, Linux basics), and insights into security principles like the CIA Triad.
+Explore my ongoing journey in cybersecurity, showcasing foundational knowledge, hands-on projects, and reflections as I progress through my Professional carreer. Includes case studies, technical skills (SQL, PHP, Linux basics), and insights into security principles like the CIA Triad.
 
 ### **[>> Go to my Cybersecurity Portfolio](https://github.com/martinmorente-dev/Cybersecurity/blob/main/README.md)**
   
